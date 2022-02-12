@@ -4,7 +4,7 @@
 
 # simple_graph.py
 
-# Purpose: Display of the game results in a diagram
+# Purpose: Display of the game results in a diagram (graph)
 
 # Dependencies
 import numpy as np
