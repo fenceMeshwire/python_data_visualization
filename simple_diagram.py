@@ -2,7 +2,9 @@
 
 # Python 3.9.5
 
-# Display of the game results in a diagram
+# simple_diagram.py
+
+# Purpose: Display of the game results in a diagram
 
 # Dependencies
 import numpy as np
