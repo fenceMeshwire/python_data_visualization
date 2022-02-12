@@ -2,7 +2,7 @@
 
 # Python 3.9.5
 
-# Display game results in a diagram
+# Display of the game results in a diagram
 
 # Dependencies
 import numpy as np
