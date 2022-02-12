@@ -2,7 +2,7 @@
 
 # Python 3.9.5
 
-# simple_diagram.py
+# simple_graph.py
 
 # Purpose: Display of the game results in a diagram
 
