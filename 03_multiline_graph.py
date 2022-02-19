@@ -2,7 +2,7 @@
 
 # Python 3.9.5
 
-# 03_multi_line_graph.py
+# 03_multiline_graph.py
 
 # Purpose: Drawing a multiline graph
 
