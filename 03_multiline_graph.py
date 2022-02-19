@@ -9,6 +9,7 @@
 # Dependencies
 import math
 import matplotlib.pyplot as plt
+import numpy as np
 
 # Producing data with the functions sin(x), cos(x):
 x = np.arange(0, 15, 0.1)
