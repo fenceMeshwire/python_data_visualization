@@ -4,7 +4,7 @@
 
 # 04_vertical_bar_graph.py
 
-# Purpose: Visualization of data with a vertical bar graph
+# Purpose: Visualization of data with a vertical bar graph using the module matplotlib.
 
 # Dependencies
 import matplotlib.pyplot as plt
