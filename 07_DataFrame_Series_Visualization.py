@@ -9,8 +9,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 data = {}
 
-index = range(1, 9)
-index = [counter for counter in range(1, 9)]
+index = range(1, 9) # <class 'range'>
+index = [counter for counter in range(1, 9)] # <class 'list'>
 
 for i in range(1, 9):
     # Index takes <class 'range'> or <class 'list'> as input
