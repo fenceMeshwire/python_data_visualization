@@ -4,6 +4,8 @@
 
 # 08_scalar_multiplication_vertical_bar_chart.py
 
+# Purpose: Scalar multiplication of one list with another list then data visualization with matplotlib.
+
 # Dependencies:
 import matplotlib.pyplot as plt
 import pandas as pd
