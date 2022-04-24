@@ -4,8 +4,6 @@
 
 # 12_matplotlib_line_styles.py
 
-# s. page 228 ff. (s. page 228 ff.)
-
 # Dependencies
 import matplotlib.pyplot as plt
 import numpy as np
