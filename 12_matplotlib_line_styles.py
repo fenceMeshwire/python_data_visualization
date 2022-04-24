@@ -1,0 +1,22 @@
+#!/usr/bin/env python3
+
+# Python 3.9.5
+
+# 06_plt_axes_limits.py
+
+# s. page 228 ff. (s. page 228 ff.)
+
+# Dependencies
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Data
+x = np.linspace(0, 10, 1000)
+
+# Operations
+plt.plot(x, x + 1, linestyle='-') # solid
+plt.plot(x, x + 2, linestyle='--') # dashed
+plt.plot(x, x + 3, linestyle='-.') # dashdot
+plt.plot(x, x + 4, linestyle=':'); # dotted
+
+plt.show()
