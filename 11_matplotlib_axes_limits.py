@@ -5,7 +5,6 @@
 # 11_matplotlib_axes_limits.py
 
 # Dependencies
-import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
 
