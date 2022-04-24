@@ -2,7 +2,7 @@
 
 # Python 3.9.5
 
-# 06_plt_axes_limits.py
+# 12_matplotlib_line_styles.py
 
 # s. page 228 ff. (s. page 228 ff.)
 
